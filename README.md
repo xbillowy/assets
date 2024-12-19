@@ -1,3 +1,5 @@
-# assets
+# AssetHub
 
-Store assets for project pages.
+The asset hub for research projects.
+
++ [EnvGS]()

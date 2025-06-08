@@ -1,0 +1,2 @@
+envgs.github.io.assets/highly_specular_indoor_scene_reconstruction.mp4 filter=lfs diff=lfs merge=lfs -text
+envgs.github.io.assets/real-time_gui.mp4 filter=lfs diff=lfs merge=lfs -text
